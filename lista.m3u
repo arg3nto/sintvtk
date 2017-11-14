@@ -20,33 +20,33 @@
 https://stream.smcdn.pl/best-t/best_720p/chunklist.m3u8
 #EXTINF:-1,Capital TV | SD
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-#EXTINF:-1, tvg-logo="VG3m7v1.jpg" group-title="Canales de Musica" -  Capital TV | SD
+#EXTINF:-1, tvg-logo="VG3m7v1.jpg", Capital TV | SD
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 #EXTINF:-1,City Radio TV | SD
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
-#EXTINF:-1, tvg-logo="XX9A1OQ.jpg" group-title="Canales de Musica" -  DJIng Ibiza | HD
+#EXTINF:-1, tvg-logo="XX9A1OQ.jpg", DJIng Ibiza | HD
 http://www.djing.com/tv/ibiza.m3u8
-#EXTINF:-1, tvg-logo="rYAqLdE.png" group-title="Canales de Musica" -  Eska Rock | HD
+#EXTINF:-1, tvg-logo="rYAqLdE.png", Eska Rock | HD
 https://stream.smcdn.pl/eska_rock-t/eska_rock_720p/chunklist.m3u8
 #EXTINF:-1, FM-LATINA
 http://192.99.46.56:1935/fmlatina/fmlatina/chunklist_w1938079541.m3u8
 #EXTINF:-1,Heart TV | HD
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:-1, tvg-logo="PA4fG4f.png" group-title="Canales de Musica" -  Hip Hop TV | SD
+#EXTINF:-1, tvg-logo="PA4fG4f.png", Hip Hop TV | SD
 https://stream.smcdn.pl/hiphoptv-p/stream1/chunklist.m3u8
-#EXTINF:-1, tvg-logo="jE6NEKA.png" group-title="Canales de Musica" -  Hit TV | SD
+#EXTINF:-1, tvg-logo="jE6NEKA.png", Hit TV | SD
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
 #EXTINF:-1,Indie Lives radio | SD
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
-#EXTINF:-1, tvg-logo="89HKXuS.jpg" group-title="Canales de Musica" -  La Super TV | SD
+#EXTINF:-1, tvg-logo="89HKXuS.jpg", La Super TV | SD
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
-#EXTINF:-1, tvg-logo="JKWi1oD.jpg" group-title="Canales de Musica" -  Latin Music TV (Dominicano) | SD
+#EXTINF:-1, tvg-logo="JKWi1oD.jpg", Latin Music TV (Dominicano) | SD
 http://ss9.domint.net:2186/lmt_str/latinmusic/playlist.m3u8
 #EXTINF:-1,M2O TV | SD
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,Melody Channel | SD
 rtsp://186.155.200.118:1935/live/MelodyChannel
-#EXTINF:-1, tvg-logo="LOsciEF.png" group-title="Canales de Musica" -  Montecristi Digital | SD
+#EXTINF:-1, tvg-logo="LOsciEF.png", Montecristi Digital | SD
 http://cm.hostlagarto.com:8081/Montecristidigital8/DigitalHD.myStream/chunks.m3u8
 #EXTINF:-1,Music Choice 90 | HD
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
@@ -108,7 +108,7 @@ mms://200.42.92.6:1755/qmusica
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1152037332.m3u8
 #EXTINF:-1, MUSICA VOX TV Clasicos en Ingles
 https://stream.smcdn.pl/vox-t/vox_360p/chunklist_w1129473971_tkd293emF0b2tlbmVuZHRpbWU9MTQ5NTg4MzcwMCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9V1NDc3g4M3VhRlN2Q2hnazZKcVlTb1UzcmFjcVZFeXlLTmZCSXpYcVNLaz0=.m3u8
-#EXTINF:-1, tvg-logo="HuPYFtY.png" group-title="Canales de Musica" -  One TV | HD
+#EXTINF:-1, tvg-logo="HuPYFtY.png", One TV | HD
 http://server5.stweb.tv/radioone/live/playlist.m3u8
 #EXTINF:-1,Otto FM | HD
 http://live.youiptv.ch:1935/8FM/8FM/playlist.m3u8
@@ -116,21 +116,21 @@ http://live.youiptv.ch:1935/8FM/8FM/playlist.m3u8
 https://stream.smcdn.pl/eska_party-t/eska_party_720p/chunklist.m3u8
 #EXTINF:-1,Planeta HD | HD
 http://84.43.207.130/planetahd/planetahd.m3u8
-#EXTINF:-1, tvg-logo="I36VNWZ.jpg" group-title="Canales de Musica" -  Play Channel (Colombiano) | SD
+#EXTINF:-1, tvg-logo="I36VNWZ.jpg", Play Channel (Colombiano) | SD
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/playchannel.m3u8
 #EXTINF:-1,Polo Party TV | HD
 http://stream.cdn.smcloud.net/polo_party-t/polo_party_720p/playlist.m3u8
 #EXTINF:-1,Radio 105 Network | HD
 http://fms.105.net:1935/live/105Test1/playlist.m3u8
-#EXTINF:-1, tvg-logo="3ubGXiu.png" group-title="Canales de Musica" -  Radio Linea N1 | HD
+#EXTINF:-1, tvg-logo="3ubGXiu.png", Radio Linea N1 | HD
 http://flash2.streaming.xdevel.com:80/radiolineatv/radiolineatv/chunklist.m3u8
-#EXTINF:-1, tvg-logo="VpZPZEv.png" group-title="Canales de Musica" -  Radio Montecarlo TV | SD
+#EXTINF:-1, tvg-logo="VpZPZEv.png", Radio Montecarlo TV | SD
 http://fms.105.net:1935/live/rmc1/.m3u8
 #EXTINF:-1,RADIO POWER
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="wpzgjWt.png" group-title="Canales de Musica" -  Radio Sanborja (Peru) | SD
+#EXTINF:-1, tvg-logo="wpzgjWt.png", Radio Sanborja (Peru) | SD
 https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
-#EXTINF:-1, tvg-logo="lS4CAgN.png" group-title="Canales de Musica" -  Radio U | SD
+#EXTINF:-1, tvg-logo="lS4CAgN.png", Radio U | SD
 http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/rightbrainmedia-live-109/radioutv1/chunks.m3u8
 #EXTINF:-1,Retro TV | SD
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
@@ -138,17 +138,17 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
 #EXTINF:-1,Tigo Music | HD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
-#EXTINF:-1, tvg-logo="MOoMLMT.png" group-title="Canales de Musica" -  Tigo Une (Colombiano) | SD
+#EXTINF:-1, tvg-logo="MOoMLMT.png", Tigo Une (Colombiano) | SD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
-#EXTINF:-1, tvg-logo="yaqpaZk.jpg" group-title="Canales de Musica" -  Tu Musica (Dominicano) | HD
+#EXTINF:-1, tvg-logo="yaqpaZk.jpg", Tu Musica (Dominicano) | HD
 http://cm.hostlagarto.com:8081/tumusicahd/tumusicaHD.myStream/playlist.m3u8
-#EXTINF:-1, tvg-logo="s8bLqJM.png" group-title="Canales de Musica" -  TVPop | HD
+#EXTINF:-1, tvg-logo="s8bLqJM.png", TVPop | HD
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
 #EXTINF:-1,Vibee | SD
 http://46.101.21.42:8081/live/live2/playlist.m3u8
 #EXTINF:-1,Virgin Radio TV | SD
 http://wow01.105.net/live/virgin1/.m3u8
-#EXTINF:-1, tvg-logo="1BAolmu.png" group-title="Canales de Musica" -  Wawa TV | HD
+#EXTINF:-1, tvg-logo="1BAolmu.png", Wawa TV | HD
 https://stream.smcdn.pl/wawa-t/wawa_720p/chunklist.m3u8
-#EXTINF:-1, tvg-logo="Gpa4LA6.png" group-title="Canales de Musica" -  Xite | HD
+#EXTINF:-1, tvg-logo="Gpa4LA6.png", Xite | HD
 http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
